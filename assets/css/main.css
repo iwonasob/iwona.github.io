@@ -56,7 +56,7 @@
 		box-sizing: border-box;
 	}
 
-	li {transition: 1s all ease;}
+	li {transition: 0.3s all ease;}
 	li:hover {opacity: 0.8;}
 
 /* Containers */
@@ -2604,13 +2604,14 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/spectrogram.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		/*height: 15em;*/
+		height: 100%;
 		width: 100%;
 	}
 
