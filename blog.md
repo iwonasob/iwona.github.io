@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: News
+permalink: /news/
 ---
-
-Tell us about your blog. Hopefully it's cool.
 
 <ul class="listing">
 {% for post in site.posts %}

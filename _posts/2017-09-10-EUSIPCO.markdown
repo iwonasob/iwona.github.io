@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Paper at EUSIPCO 2017"
+date:   2017-1-04 15:36:27
+categories: poster
+---
+Our our work on Masked NMF for audio bird detection as a poster at the [25th European Signal Processing Conference] happening during NIPS conference.
+
+[25th European Signal Processing Conference]:      http://www.eusipco2017.org

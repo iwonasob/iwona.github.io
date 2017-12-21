@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Poster at Women in Machine Learning"
+date:   2017-1-04 15:36:27
+categories: poster
+---
+I received a travel grant and presented our work on Masked NMF for audio bird detection as a poster at [Women in Machine Learning Workshop 2017] happening during NIPS conference.
+
+[Women in Machine Learning Workshop 2017]:      http://wimlworkshop.org/2017/
