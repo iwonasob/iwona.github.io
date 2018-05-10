@@ -9,7 +9,9 @@ github_username:  iwonasob
 
 # Build settings
 markdown: kramdown
-
+kramdown:
+  input: GFM
+  
 # Other options
 permalink: news/:year/:month/:title
 job.title: "PhD Student"
@@ -19,3 +21,4 @@ excerpt_separator: "<!--more-->"
 # google_author: ""
 # google_site_verification: ""
 # bing_webmastertools_id: ""
+

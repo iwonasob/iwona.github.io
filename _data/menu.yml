@@ -1,12 +1,11 @@
 - title: "About"
   href: "/"
 
-- title: "News"
-  href: "/news"
+- title: "Publications"
+  href: "/publications/"
 
 - title: "CV"
   href: "/cv/"
 
-- title: "Publications"
-  href: "/publications/"
-
+- title: "News"
+  href: "/news"

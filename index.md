@@ -7,9 +7,9 @@ title: About me
 
 I am a third year PhD student under the supervision of Prof. Mark Plumbley at the Centre for Vision, Speech and Signal Processing (CVSSP) of the University of Surrey.
 
-My main research interests lie in the area of **Machine Listening**: combining machine learning and digital signal processing to extract meaningful information from sounds. In other words: I am developing methods for making sense of sounds around us, be it bird songs, city soundscapes or everyday sounds.
+My main research interests lie in the area of **Machine Listening**: combining machine learning and digital signal processing to extract meaningful information from sounds. In other words: I am developing methods for *making sense of sounds around us*, be it bird songs, city soundscapes or everyday sounds.
 
-My main focus is on matrix factorization and deep learning methods.
+I am particularly interested in **matrix factorization** and **deep learning** methods.
 
 Before joining CVSSP I worked for 3 years in Samsung Electronics R&D as a software engineer in Natural Language Processing group.
 
