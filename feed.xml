@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iwona Sobieraj</title>
+    <description>Exploring Machine Listening
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 May 2018 02:20:19 +0200</pubDate>
+    <lastBuildDate>Fri, 11 May 2018 02:20:19 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Poster at Women in Machine Learning</title>
+        <description>&lt;p&gt;I received a travel grant and presented our work on Masked NMF for audio bird detection as a poster at &lt;a href=&quot;http://wimlworkshop.org/2017/&quot;&gt;Women in Machine Learning Workshop 2017&lt;/a&gt; happening during NIPS conference.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 Jan 2017 16:36:27 +0100</pubDate>
+        <link>http://yourdomain.com/news/2017/01/WiML</link>
+        <guid isPermaLink="true">http://yourdomain.com/news/2017/01/WiML</guid>
+        
+        
+        <category>poster</category>
+        
+      </item>
+    
+      <item>
+        <title>Paper at EUSIPCO 2017</title>
+        <description>&lt;p&gt;Our work on Masked NMF for audio bird detection as a poster at the &lt;a href=&quot;http://www.eusipco2017.org&quot;&gt;25th European Signal Processing Conference&lt;/a&gt; on a special session on Bird Audio Signal Processing.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 Jan 2017 16:36:27 +0100</pubDate>
+        <link>http://yourdomain.com/news/2017/01/EUSIPCO</link>
+        <guid isPermaLink="true">http://yourdomain.com/news/2017/01/EUSIPCO</guid>
+        
+        
+        <category>poster</category>
+        
+      </item>
+    
+  </channel>
+</rss>
